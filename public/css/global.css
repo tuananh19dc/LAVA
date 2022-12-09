@@ -1,0 +1,12 @@
+h1.main-title {
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: capitalize;
+  }
+  
+  h1.main-title > span {
+    color: #f4813f;
+    display: inline-block;
+    margin-bottom: 25px;
+  }
+  
